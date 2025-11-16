@@ -1,16 +1,42 @@
-I’m a Principal Engineer at Cisco Systems with 17+ years building large-scale AI, cloud security, and digital adoption platforms. I architected Cisco’s AI Support Fabric (CDAP • Shepherd • Agentic AI Assistant) — the in-product intelligence framework driving proactive diagnostics, agentic workflows, and real-time customer experience automation across Cisco’s security portfolio.
+# 👋 Hi, I'm **Nik Kale**
+### Principal Engineer @ Cisco | AI Security | Agentic Automation | Cloud Security & Intelligence
 
-My expertise spans AI security, agentic systems, secure LLM architectures, edge-deployed intelligence, cloud reliability, and telemetry-driven automation. I focus on designing AI that strengthens enterprise resiliency, accelerates troubleshooting, and enhances in-product user experience at global scale.
+![Patents](https://img.shields.io/badge/8×-US%20Patents-black?style=for-the-badge)
+![Stevie](https://img.shields.io/badge/3×-Stevie%20Award%20Winner-gold?style=for-the-badge)
+![ISSIP](https://img.shields.io/badge/2×-ISSIP%20Distinguished-blue?style=for-the-badge)
 
-Highlights
-	•	8× U.S. patents in AI, automation, and cloud intelligence
-	•	3× Stevie Awards (Best Technical Innovation - AI, Analytics, Automation and Customer Service)
-	•	2× ISSIP Distinguished Innovation Awards (Secure Customer Experience)
-	•	Reviewer/Judge for ACM AISec, ACM CCS, DynaFront, CODie Awards, Stevie Awards, Edison Awards, and global tech competitions
+I’m a Principal Engineer at Cisco Systems with 17+ years building large-scale AI, cloud security, and digital adoption platforms. I architected Cisco’s AI Support Fabric (CDAP • Shepherd • Agentic AI Assistance) — the in-product intelligence framework driving proactive diagnostics, agentic workflows, and real-time customer experience automation across Cisco’s security portfolio.
 
-Currently Building
-	•	🔐 Secure AI Support Fabric — end-to-end trusted AI pipelines, telemetry hardening, and secure agentic automation
-	•	🧠 ADAPT — Agentic Digital Automation & Proactive Transparency Framework
-	•	🛡️ Responsible-AI Compliance Blueprint — automated AI governance and security auditing toolkit
-	•	🔥 Browser-Based SLM for Autonomous UX Detection (Edge AI + DOM intelligence)
-	•	🧩 Open DAP Widget Kit — open-source, secure alternative to WalkMe/Appcues
+![AI](https://img.shields.io/badge/AI%20Architecture-Expert-0F8CFF?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud%20Security-Azure%20%7C%20AWS%20%7C%20GCP-4B89DC?style=flat-square)
+![RCA](https://img.shields.io/badge/Agentic%20RCA-Multi--Agent-FF7B00?style=flat-square)
+![Telemetry](https://img.shields.io/badge/Telemetry%20Pipelines-Observability-44D62C?style=flat-square)
+
+
+## 🔬 Currently Building
+	•	🔐 Secure AI Support Fabric (secure agentic AI pipelines for cloud/SaaS systems)
+	•	🧠 ADAPT Framework (agentic RCA & proactive automation)
+	•	🛡️ Responsible-AI Compliance Blueprint (AI governance & auditing)
+	•	🔥 Edge SLM for Autonomous UX Detection
+	•	🧩 Open DAP Widget Kit (in-product AI guidance components)
+
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nik%20Kale-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikkale/)
+
+
+## 🔧 Tech Stack Snapshot
+
+<p align="center">
+
+
+<img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Docker-Orchestration-0db7ed?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-Cloud%20Native-326ce5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/LLM%20Architectures-Secure%20Design-8A2BE2?style=for-the-badge"/>
+
+
+</p>
