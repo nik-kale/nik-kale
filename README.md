@@ -5,7 +5,7 @@
 ![Stevie](https://img.shields.io/badge/3×-Stevie%20Award%20Winner-gold?style=for-the-badge)
 ![ISSIP](https://img.shields.io/badge/2×-ISSIP%20Distinguished-blue?style=for-the-badge)
 
-I’m a Principal Engineer at Cisco Systems with 17+ years building large-scale AI, cloud security, and digital adoption platforms. I architected Cisco’s AI Support Fabric (CDAP • Shepherd • Agentic AI Assistance) — the in-product intelligence framework driving proactive diagnostics, agentic workflows, and real-time customer experience automation across Cisco’s security portfolio.
+I’m a Principal Engineer at Cisco Systems with 17+ years building large-scale AI, cloud security, and digital adoption platforms. I architected Cisco’s AI Support Fabric (CDAP • Shepherd • Agentic AI Assistance) — the in-product intelligence framework driving proactive diagnostics, agentic workflows, and real-time customer experience automation across Cisco’s security and enterprise portfolio.
 
 ![AI](https://img.shields.io/badge/AI%20Architecture-Expert-0F8CFF?style=flat-square)
 ![Cloud](https://img.shields.io/badge/Cloud%20Security-Azure%20%7C%20AWS%20%7C%20GCP-4B89DC?style=flat-square)
