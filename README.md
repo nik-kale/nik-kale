@@ -29,7 +29,7 @@ Experienced professional with 17+ years building large-scale AI, cloud security,
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nik%20Kale-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikkale/)
-[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-@nik__kale-1A1A1A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nik_kale)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-@nik__kale-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nik_kale)
 
 ## 🔧 Tech Stack Snapshot
 
