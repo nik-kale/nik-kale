@@ -18,12 +18,12 @@ Experienced professional with 17+ years building large-scale AI, cloud security,
 
 
 ## 🔬 Currently Building
-	•	🧠 **AutoOps Architect** — zero-code meta-agent that designs, runs & optimizes autonomous ops/SRE workflows
-	•	📊 **AutoRCA-Core** — graph-based RAG engine for incident analysis, log reasoning & root-cause attribution
-	•	🔌 **Secure-MCP Gateway** — safe interoperability layer for Jira, Splunk, K8s, GitHub & enterprise tooling
-	•	🖥️ **Ops-Agent Desktop** — browser-driven autonomous troubleshooting assistant (UI-native issue reproduction)
-	•	🧩 **ADAPT Agents + Data** — composable diagnostic agents + synthetic incident labs for reliability automation
-	•	🌐 **Autonomous Ops Hub** — next-gen directory for AI-powered SRE, support, observability & automation tools
+- 🧠 **AutoOps Architect** — zero-code meta-agent that designs, runs & optimizes autonomous ops/SRE workflows
+- 📊 **AutoRCA-Core** — graph-based RAG engine for incident analysis, log reasoning & root-cause attribution
+- 🔌 **Secure-MCP Gateway** — safe interoperability layer for Jira, Splunk, K8s, GitHub & enterprise tooling
+- 🖥️ **Ops-Agent Desktop** — browser-driven autonomous troubleshooting assistant (UI-native issue reproduction)
+- 🧩 **ADAPT Agents + Data** — composable diagnostic agents + synthetic incident labs for reliability automation
+- 🌐 **Autonomous Ops Hub** — next-gen directory for AI-powered SRE, support, observability & automation tools
 
 
 ## 📫 Let’s Connect
