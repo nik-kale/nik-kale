@@ -20,7 +20,7 @@ Experienced professional with 17+ years building large-scale AI, cloud security,
 ## 🔬 Currently Building
 - 🔐 **MCP OPS Readiness** - a vendor-neutral production readiness scanner for MCP servers and agentic AI tools
 - 🧠 **AutoOps Architect** - zero-code meta-agent that designs, runs & optimizes autonomous ops/SRE workflows
-- 📊 **AutoRCA-Core** — graph-based RAG engine for incident analysis, log reasoning & root-cause attribution
+- 📊 **AutoRCA-Core** - graph-based RAG engine for incident analysis, log reasoning & root-cause attribution
 - 🔌 **Secure-MCP Gateway** - safe interoperability layer for Jira, Splunk, K8s, GitHub & enterprise tooling
 - 🖥️ **Ops-Agent Desktop** - browser-driven autonomous troubleshooting assistant (UI-native issue reproduction)
 - 🧩 **ADAPT Agents + Data** - composable diagnostic agents + synthetic incident labs for reliability automation
