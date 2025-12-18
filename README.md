@@ -9,7 +9,7 @@
 ![MS](https://img.shields.io/badge/MS-Master%20of%20Science-1E90FF?style=for-the-badge)
 ![MBA](https://img.shields.io/badge/MBA-Business%20Administration-8B0000?style=for-the-badge)
 
-Experienced professional with 17+ years building large-scale AI, cloud security, and digital adoption platforms. I architected Cisco’s AI Support Fabric (CDAP • Shepherd • Agentic AI Assistance) — the in-product intelligence framework driving proactive diagnostics, agentic workflows, and real-time customer experience automation across Cisco’s security and enterprise portfolio.
+Experienced professional with 17+ years building large-scale AI, cloud security, and digital adoption platforms. I architected Cisco’s AI Support Fabric (CDAP • Shepherd • Agentic AI Assistance) - the in-product intelligence framework driving proactive diagnostics, agentic workflows, and real-time customer experience automation across Cisco’s security and enterprise portfolio.
 
 ![AI](https://img.shields.io/badge/AI%20Architecture-Expert-0F8CFF?style=flat-square)
 ![Cloud](https://img.shields.io/badge/Cloud%20Security-Azure%20%7C%20AWS%20%7C%20GCP-4B89DC?style=flat-square)
@@ -19,12 +19,12 @@ Experienced professional with 17+ years building large-scale AI, cloud security,
 
 ## 🔬 Currently Building
 - 🔐 **MCP OPS Readiness** - a vendor-neutral production readiness scanner for MCP servers and agentic AI tools
-- 🧠 **AutoOps Architect** — zero-code meta-agent that designs, runs & optimizes autonomous ops/SRE workflows
+- 🧠 **AutoOps Architect** - zero-code meta-agent that designs, runs & optimizes autonomous ops/SRE workflows
 - 📊 **AutoRCA-Core** — graph-based RAG engine for incident analysis, log reasoning & root-cause attribution
-- 🔌 **Secure-MCP Gateway** — safe interoperability layer for Jira, Splunk, K8s, GitHub & enterprise tooling
-- 🖥️ **Ops-Agent Desktop** — browser-driven autonomous troubleshooting assistant (UI-native issue reproduction)
-- 🧩 **ADAPT Agents + Data** — composable diagnostic agents + synthetic incident labs for reliability automation
-- 🌐 **Autonomous Ops Hub** — next-gen directory for AI-powered SRE, support, observability & automation tools
+- 🔌 **Secure-MCP Gateway** - safe interoperability layer for Jira, Splunk, K8s, GitHub & enterprise tooling
+- 🖥️ **Ops-Agent Desktop** - browser-driven autonomous troubleshooting assistant (UI-native issue reproduction)
+- 🧩 **ADAPT Agents + Data** - composable diagnostic agents + synthetic incident labs for reliability automation
+- 🌐 **Autonomous Ops Hub** - next-gen directory for AI-powered SRE, support, observability & automation tools
 
 
 ## 📫 Let’s Connect
