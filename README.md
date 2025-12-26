@@ -9,7 +9,7 @@
 ![MS](https://img.shields.io/badge/MS-Master%20of%20Science-1E90FF?style=for-the-badge)
 ![MBA](https://img.shields.io/badge/MBA-Business%20Administration-8B0000?style=for-the-badge)
 
-Experienced professional with 17+ years building large-scale AI, cloud security, and digital adoption platforms. I architected Cisco’s AI Support Fabric (CDAP • Shepherd • Agentic AI Assistance) - the in-product intelligence framework driving proactive diagnostics, agentic workflows, and real-time customer experience automation across Cisco’s security and enterprise portfolio.
+Experienced professional with building large-scale AI, cloud security, and digital adoption platforms. I architected Cisco’s AI Support Fabric (CDAP • Shepherd • Agentic AI Assistance) - the in-product intelligence framework driving proactive diagnostics, agentic workflows, and real-time customer experience automation across Cisco’s security and enterprise portfolio.
 
 ![AI](https://img.shields.io/badge/AI%20Architecture-Expert-0F8CFF?style=flat-square)
 ![Cloud](https://img.shields.io/badge/Cloud%20Security-Azure%20%7C%20AWS%20%7C%20GCP-4B89DC?style=flat-square)
