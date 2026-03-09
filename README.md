@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Nik Kale**
-### Focus Areas: AI Security | Agentic Automation | Cloud Security & Intelligence
+### Focus Areas: AI Security | Agentic Systems | Production Architecture
 
 <!-- ![Patents](https://img.shields.io/badge/8×-US%20Patents-black?style=for-the-badge)
 #![Stevie](https://img.shields.io/badge/3×-Stevie%20Award%20Winner-gold?style=for-the-badge)
@@ -9,7 +9,7 @@
 #![MS](https://img.shields.io/badge/MS-Master%20of%20Science-1E90FF?style=for-the-badge)
 #![MBA](https://img.shields.io/badge/MBA-Business%20Administration-8B0000?style=for-the-badge) -->
 
-Experienced professional with building large-scale AI, cloud security, and digital adoption platforms. I architected Cisco’s AI Support Fabric (CDAP • Shepherd • Agentic AI Assistance) - the in-product intelligence framework driving proactive diagnostics, agentic workflows, and real-time customer experience automation across Cisco’s security and enterprise portfolio.
+I architect AI-driven platforms at enterprise scale. My work spans the AI Support Fabric (CDAP, Shepherd AI, Agentic AI Assistance), a production intelligence framework driving proactive diagnostics, agentic workflows, and real-time automation across security and enterprise product portfolios. I also built the TRON Framework, a large-scale data pipeline converting 1.5M+ annual support cases into actionable insights and business outcomes.
 
 ![AI](https://img.shields.io/badge/AI%20Architecture-Expert-0F8CFF?style=flat-square)
 ![Cloud](https://img.shields.io/badge/Cloud%20Security-Azure%20%7C%20AWS%20%7C%20GCP-4B89DC?style=flat-square)
