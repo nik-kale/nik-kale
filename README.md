@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Nik Kale**
-### AI Security | Agentic Automation | Cloud Security & Intelligence
+### Focus Areas: AI Security | Agentic Automation | Cloud Security & Intelligence
 
 <!-- ![Patents](https://img.shields.io/badge/8×-US%20Patents-black?style=for-the-badge)
 #![Stevie](https://img.shields.io/badge/3×-Stevie%20Award%20Winner-gold?style=for-the-badge)
